@@ -2,16 +2,16 @@
 
 <br />
 
-<h1 align="center">Hi 👋, I'm Lee Jaeil</h1>
-<h3 align="center">日本語で一番を意味するイ・ジェールと申します！</h3>
+<h1 align="center">初めまして 👋, 一番と申しますわ！</h1>
+<h3 align="center">以後お見知りおきを！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeil-lee&label=%E3%83%A4%E3%83%83%E3%83%9B%E3%83%BC&color=764ee4&style=plastic" alt="jaeil-lee" /> </p>
 
 
 
-- 🌱 I’m currently learning **JAVA , Javascript**
+- 🌱 最近学んでおります： **JAVA , Javascript**
 
-- 📫 How to reach me **lji941001@naver.com**
+- 📫 ここに連絡してねん！： **lji941001@naver.com**
 
 <p align="left">
 </p>
