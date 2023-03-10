@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeil-lee&label=%E3%83%A4%E3%83%83%E3%83%9B%E3%83%BC&color=764ee4&style=plastic" alt="jaeil-lee" /> </p>
 
+![2022 05 19_ YJU 외국어 프레젠테이션 대회 최우승](https://user-images.githubusercontent.com/108773192/224208689-f509007c-3cfe-4bd2-a5ef-eb449cbf1f1e.png)
 
 
 - 🌱 最近学んでおります： **JAVA , Javascript**
