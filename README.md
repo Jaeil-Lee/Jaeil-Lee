@@ -24,4 +24,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeil-Lee&theme=tokyonight&show_icons=true)
 
 
-<img src="https://user-images.githubusercontent.com/108773192/224209074-02dd8563-03f7-403a-95c7-60c7b77ade64.jpeg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/108773192/224209074-02dd8563-03f7-403a-95c7-60c7b77ade64.jpeg" width="400" height="300">
