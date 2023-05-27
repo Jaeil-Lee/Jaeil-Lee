@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&fontColor=d6ace6&section=header&text=一番と申します！&fontSize=80)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)] -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;初めまして%20一番と申しますわ！)](https://git.io/typing-svg)
 
 <br />
 
-<h1 align="center">初めまして 👋, 一番と申しますわ！</h1>
+<!-- <h1 align="center">初めまして 👋, 一番と申しますわ！</h1> -->
 <h3 align="center">以後お見知りおきを！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeil-lee&label=%E3%83%A4%E3%83%83%E3%83%9B%E3%83%BC&color=764ee4&style=plastic" alt="jaeil-lee" /> </p>
