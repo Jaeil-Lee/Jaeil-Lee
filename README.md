@@ -1,10 +1,8 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)] -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text;初めまして%20一番と申しますわ！)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=皆さん初めまして！;私の名前は日本語で一番を意味する;イ・ジェイルと申しますわ！！！;以後お見知りおきを❤️❤️❤️)](https://git.io/typing-svg)
 
 <br />
 
-<!-- <h1 align="center">初めまして 👋, 一番と申しますわ！</h1> -->
-<h3 align="center">以後お見知りおきを！</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaeil-lee&label=%E3%83%A4%E3%83%83%E3%83%9B%E3%83%BC&color=764ee4&style=plastic" alt="jaeil-lee" /> </p>
 
